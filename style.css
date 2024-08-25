@@ -20,7 +20,7 @@ header h1 {
 .card {
     transition: all 0.3s ease;
     background-color: #fff;
-    margin:  1rem 0.75rem;
+    margin:  1rem 0.60rem;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
     cursor: pointer;
